@@ -3300,6 +3300,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8675012395551043194, guid: 34ee67635266dd44bb44143296d7a6e0, type: 3}
+      propertyPath: coin
+      value: 
+      objectReference: {fileID: 2465240752397447520, guid: 037ede6ca141abf4598d01241015447e, type: 3}
     - target: {fileID: 9063978392295617299, guid: 34ee67635266dd44bb44143296d7a6e0, type: 3}
       propertyPath: m_Name
       value: bricks
